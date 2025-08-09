@@ -10,4 +10,4 @@
 
 ### 🫂 Contact:
   - gmail: rafaelnfilho@gmail.com
-  - linkedin: in/rafael-nogueira-959145307
+  - linkedin: <a>in/rafael-nogueira-959145307<a/>
