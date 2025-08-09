@@ -11,3 +11,12 @@
 ### 🫂 Contact:
   - gmail: rafaelnfilho@gmail.com
   - linkedin: in/rafael-nogueira-959145307
+
+##
+
+
+<a href="https://github.com/rafaelmnf/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmnf&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
+
+##
