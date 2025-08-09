@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome Dev
 
-<!--
-**rafaelmnf/rafaelmnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏻‍♂️ About Me:
+  - Name: Rafael Martiniano Nogueira Filho
+  - Age: 19 anos
+  - Marital Status: Single
+  - Occupation: Computer Engineering Student at Pontifícia Universidade Católica de       Campinas
+  - Currently Studying: JavaScript, Java and C
+  - Location: Campinas, SP (Brasil)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🫂 Contact:
+  - gmail: rafaelnfilho@gmail.com
+  - linkedin: in/rafael-nogueira-959145307
