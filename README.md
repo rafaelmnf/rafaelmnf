@@ -9,6 +9,7 @@
         height="200px"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&show_icons=true&include-all-commits=true&theme=dark#gh-dark-mode-only"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&include-all-commits=true&show_icons=true&theme=default#gh-light-mode-only"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmnf"
     />
 </div>
 
