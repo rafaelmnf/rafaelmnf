@@ -2,15 +2,15 @@
 
 ##### Passionate about technology — dedicated, organized, and always learning.
 
-<div style="display: flex; justify-content: center;">
+<div  align="center" style="display: inline_block">
     <img
         aling="left"
         alt="GitHub Stats"
-        height="200px"
+        height="180em"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&show_icons=true&include-all-commits=true&theme=dark#gh-dark-mode-only"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&include-all-commits=true&show_icons=true&theme=default#gh-light-mode-only"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmnf"
     />
+    <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=rafaelmnf&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 ---
@@ -60,8 +60,8 @@
     />
     <img
         aling="left"
-        width="40" 
-        height="40"
+        width="40"
+        alt="Assembly"
         style="padding-right: 10px;"
         src="https://img.icons8.com/color/48/assembly.png" alt="AssemblyX86"
         title="AssemblyX86"
@@ -131,7 +131,7 @@
   - Age: 20 years old
   - Marital Status: Single
   - Occupation: Computer Engineering Student at Pontifícia Universidade Católica de Campinas
-  - Currently Studying: JavaScript, Java and C
+  - Currently Studying: JavaScript, React and Python
   - Location: Campinas, SP (Brasil)
 
 ##
