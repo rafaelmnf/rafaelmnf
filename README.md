@@ -156,14 +156,6 @@
     />
     <img
         aling="left"
-        alt="Jira"
-        title="Jira"
-        width="40"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
-    />
-    <img
-        aling="left"
         alt="GIT"
         title="GIT"
         width="40"
