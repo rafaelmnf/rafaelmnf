@@ -44,11 +44,11 @@
     />
     <img
         aling="left"
-        alt="ThreeJS"
-        title="ThreeJS"
+        alt="TypeScript"
+        title="TypeScript"
         width="40"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     />
     <img
         aling="left"
@@ -84,6 +84,46 @@
     />
     <img
         aling="left"
+        alt="Azure"
+        title="Azure"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg""
+    />
+    <img
+        aling="left"
+        alt="Postgres"
+        title="Postgres"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    />
+    <img
+        aling="left"
+        alt="React"
+        title="React"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img
+        aling="left"
+        alt="Docker"
+        title="Docker"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    />
+     <img
+        aling="left"
+        alt="Raspberry Pi"
+        title="Raspberry Pi"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
+    />
+    <img
+        aling="left"
         alt="Figma"
         title="Figma"
         width="40"
@@ -116,6 +156,14 @@
     />
     <img
         aling="left"
+        alt="Jira"
+        title="Jira"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+    />
+    <img
+        aling="left"
         alt="GIT"
         title="GIT"
         width="40"
@@ -138,5 +186,5 @@
 
 ### 🫂 Contact:
   - gmail: rafaelnfilho@gmail.com
-  - linkedin: [<a>in/rafael-nogueira-959145307</a>](https://www.linkedin.com/in/rafael-nogueira-959145307/)
+  - linkedin: [in/rafael-nogueira-959145307](https://www.linkedin.com/in/rafael-nogueira-959145307/)
 
