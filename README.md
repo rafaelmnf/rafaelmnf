@@ -168,11 +168,10 @@
 
 ### 🙋🏻‍♂️ About Me:
   - Full Name: Rafael Martiniano Nogueira Filho
-  - Age: 20 years old
   - Marital Status: Single
   - Occupation: Computer Engineering Student at Pontifícia Universidade Católica de Campinas
   - Currently Studying: JavaScript, React and Python
-  - Location: Campinas, SP (Brasil)
+  - Location: SP (Brasil)
 
 ##
 
