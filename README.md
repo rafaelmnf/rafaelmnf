@@ -1,15 +1,15 @@
 ## `👨🏻‍💻Rafael Nogueira`
 
-##### Passionate about technology — dedicated, organized, and always learning.
+##### Always learning...
 
 <div  align="center" style="display: inline_block">
-    <img
+    <!-- <img
         aling="left"
         alt="GitHub Stats"
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&show_icons=true&include-all-commits=true&theme=dark#gh-dark-mode-only"
         src="https://github-readme-stats.vercel.app/api?username=rafaelmnf&include-all-commits=true&show_icons=true&theme=default#gh-light-mode-only"
-    />
+    /> -->
     <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=rafaelmnf&layout=compact&langs_count=8&theme=dark" />
 </div>
 
@@ -178,7 +178,7 @@
   - Full Name: Rafael Martiniano Nogueira Filho
   - Marital Status: Single
   - Occupation: Computer Engineering Student at Pontifícia Universidade Católica de Campinas
-  - Currently Studying: JavaScript, React and Python
+  - Currently Studying: Python and AI
   - Location: SP (Brasil)
 
 ##
