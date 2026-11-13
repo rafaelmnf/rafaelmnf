@@ -130,6 +130,13 @@
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
     />
+    <img 
+        aling="left"
+        alt="Arduino"
+        title="Arduino"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
     <img
         aling="left"
         alt="Figma"
@@ -169,6 +176,14 @@
         width="40"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />
+    <img
+        aling="left"
+        alt="JIRA"
+        title="JIRA"
+        width="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
     />
 </div>
 
