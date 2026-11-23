@@ -200,5 +200,5 @@
 
 ### 🫂 Contact:
   - gmail: rafaelnfilho@gmail.com
-  - linkedin: [in/rafael-nogueira-959145307](https://www.linkedin.com/in/rafael-nogueira-959145307/)
+  - linkedin: [in/rafael-martiniano-nogueira-filho-959145307](https://www.linkedin.com/in/rafael-martiniano-nogueira-filho-959145307/)
 
